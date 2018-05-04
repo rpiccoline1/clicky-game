@@ -1,0 +1,29 @@
+.navbar li {
+  display: inline-block;
+  text-align: center;
+}
+
+.navMiddle {
+	width: 60%;
+}
+
+.navRight {
+  width: 15%;
+}
+
+.navLeft {
+  width: 10%;
+}
+
+.navbar {
+  background: rgb(240, 10, 10);
+}
+
+li {
+  color: white;
+  padding: 10px 0;
+}
+
+body {
+  font-size: 25px;
+}
